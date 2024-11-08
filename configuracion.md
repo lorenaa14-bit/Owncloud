@@ -32,7 +32,7 @@ sudo cp ~/Baixades/app-web.zip /var/www/html
 
 cd /var/www/html
 
-##Descomprimir l'arxiu zip:
+## Descomprimir l'arxiu zip:
 
 sudo unzip app-web.zip
 
