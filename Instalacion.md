@@ -24,3 +24,4 @@ Moltes aplicacions web necessiten una base de dades per emmagatzemar informació
 
 ! [IMG_6368.HEIC][img1]
 
+! [IMG_6369.HEIC][img2]
