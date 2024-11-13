@@ -22,5 +22,5 @@ Moltes aplicacions web necessiten una base de dades per emmagatzemar informació
  Després de la instal·lació de PHP i les seves extensions, cal reiniciar el servidor Apache perquè reconegui la nova configuració i llibreries: 
  **Copiar código sudo systemctl restart apache2** 
 
-![IMG_6368.HEIC][img1]
+! [IMG_6368.HEIC][img1]
 
