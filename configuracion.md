@@ -53,3 +53,11 @@ sudo rm -rf /var/www/html/index.html
 cd /var/www/html
 sudo chmod -R 775
 sudo chown -R usuario:www-data
+
+! [IMG_6368.HEIC][img1]
+
+! [IMG_6369.HEIC][img2]
+
+! [IMG_6370.HEIC][img3]
+
+! [IMG_6367.HEIC][img4]
